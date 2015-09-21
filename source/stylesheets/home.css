@@ -1,0 +1,31 @@
+body{
+  /*background:
+linear-gradient(27deg, #151515 5px, transparent 5px) 0 5px,
+linear-gradient(207deg, #151515 5px, transparent 5px) 10px 0px,
+linear-gradient(27deg, #222 5px, transparent 5px) 0px 10px,
+linear-gradient(207deg, #222 5px, transparent 5px) 10px 5px,
+linear-gradient(90deg, #1b1b1b 10px, transparent 10px),
+linear-gradient(#1d1d1d 25%, #1a1a1a 25%, #1a1a1a 50%, transparent 50%, transparent 75%, #242424 75%, #242424);
+background-color: #131313;
+background-size: 20px 20px;*/
+position: absolute;
+/*background-color: #473e0e;
+background-image: url(http://www.transparenttextures.com/patterns/dark-wood.png);*/
+/*background-color: #24767F;*/
+background-color: rgba(0,0,0,0.8);
+/*background-color: #737373;
+background-image: url(http://www.transparenttextures.com/patterns/carbon-fibre.png);*/
+/*font-family: 'Brush Script MT', cursive;
+  font-size: 12px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 500;
+  line-height: 26.4px;*/
+  font-family: Papyrus, fantasy;
+  font-size: 24px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 500;
+  line-height: 26.4px;
+
+}
